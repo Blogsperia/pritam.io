@@ -7,7 +7,7 @@ slug: "/posts/humour-and-empathy-in-ux-microcopy/"
 category: "UX Writing"
 tags:
   - "Humour in Microcopy"
-description: "humour-and-empathy-in-ux-microcopy/"
+description: "When to use humour in UX microcopy, when empathy and when to start looking for a job."
 socialImage: "humour-in-microcopy.png"
 ---
 
