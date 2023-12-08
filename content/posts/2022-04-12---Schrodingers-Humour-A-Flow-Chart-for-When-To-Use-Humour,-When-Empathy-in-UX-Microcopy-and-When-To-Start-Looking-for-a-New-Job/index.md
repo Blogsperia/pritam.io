@@ -1,5 +1,5 @@
 ---
-title: Schrodinger’s Humour | A Flow Chart for When To Use Humour, When Empathy in UX Microcopy and When To Start Looking for a New Job
+title: Schrodinger’s Humour | When To Use Humour in UX Microcopy
 date: "2022-04-12T23:46:37.121Z"
 template: "post"
 draft: false
