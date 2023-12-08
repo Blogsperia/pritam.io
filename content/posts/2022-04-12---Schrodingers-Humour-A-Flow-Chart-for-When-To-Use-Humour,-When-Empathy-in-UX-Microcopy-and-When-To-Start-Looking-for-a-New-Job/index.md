@@ -8,7 +8,7 @@ category: "UX Writing"
 tags:
   - "Humour in Microcopy"
 description: "humour-and-empathy-in-ux-microcopy/"
-socialImage: "./media/notebook.jpg"
+socialImage: "humour-in-microcopy.png"
 ---
 
 
