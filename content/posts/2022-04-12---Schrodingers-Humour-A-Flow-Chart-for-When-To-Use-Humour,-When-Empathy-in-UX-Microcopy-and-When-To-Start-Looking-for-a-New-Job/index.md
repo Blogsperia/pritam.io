@@ -44,4 +44,6 @@ Just when I was about to send it to him, I saw a flow chart in my mind on when t
 
 Although this is based on a flow chart created by Ryan Farrell, maker of Daily UX Writing, I have made some major changes to it.
 
+![Humour in Microcopy](humour-in-microcopy.png)
+
 Hummm. Not bad. I guess I do have a sense of humour. Maybe Schrodinger’s humour, if you know what I mean.
