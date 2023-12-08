@@ -1,6 +1,6 @@
 ---
 title: Schrodinger’s Humour | When To Use Humour in UX Microcopy
-date: "2022-04-12T23:46:37.121Z"
+date: "2022-12-04T23:46:37.121Z"
 template: "post"
 draft: false
 slug: "/posts/humour-and-empathy-in-ux-microcopy/"
